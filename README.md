@@ -3,7 +3,7 @@
 Create .env file
 
 ```
-DATABASE_URL="mysql://root:@localhost:3306/belajar_typescript_restful_api"
+DATABASE_URL="mysql://root:@localhost:3306/perpustakaan"
 ```
 
 ```shell
